@@ -33,13 +33,10 @@ Explore tutorials, productivity tools, learning platforms, and job boards — al
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page  
-![Home Screenshot](./assets/homepage.png)
+![Home Screenshot](./img/home.png)
 
 ### 🔹 AI Tools Section  
-![Tools Screenshot](./assets/tools-section.png)
-
-### 🔹 Mobile Responsive View  
-![Mobile Screenshot](./assets/mobile-view.png)
+![Tools Screenshot](./img/coding_tools.png)
 
 ---
 
