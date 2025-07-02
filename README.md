@@ -28,7 +28,18 @@ Explore tutorials, productivity tools, learning platforms, and job boards — al
 
 [🔗 Live Demo](https://newdevatgit.github.io/AAO/coding.html)
 
-![Screenshot](./assets/demo.png)
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Home Page  
+![Home Screenshot](./assets/homepage.png)
+
+### 🔹 AI Tools Section  
+![Tools Screenshot](./assets/tools-section.png)
+
+### 🔹 Mobile Responsive View  
+![Mobile Screenshot](./assets/mobile-view.png)
 
 ---
 
