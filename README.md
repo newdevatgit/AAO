@@ -26,7 +26,7 @@ Explore tutorials, productivity tools, learning platforms, and job boards — al
 
 ## 🎥 Demo
 
-[🔗 Live Demo](#) *(Add your deployed site link here if available)*
+[🔗 Live Demo](https://newdevatgit.github.io/AAO/coding.html) *(Add your deployed site link here if available)*
 
 ![Screenshot or Demo GIF](./assets/demo.png) *(optional if you have)*
 
