@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-  const menuIcon = document.querySelector('.menu_icon img'); // Change this line
+  const menuIcon = document.querySelector('.menu_icon img');
   const navMenu = document.querySelector('.container3');
 
   let isMenuOpen = false;
